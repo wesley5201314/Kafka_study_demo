@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/kafka_2.11-0.10.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/kafka_2.11-0.10.0.0.jar" sourcepath="F:/maven/repo/org/apache/kafka/kafka_2.11/0.10.0.0/kafka_2.11-0.10.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/scala-library-2.11.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
